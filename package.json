@@ -1,5 +1,5 @@
 {
-	"name": "actor-screenshot-url",
+	"name": "actor-floatspace",
 	"version": "0.0.1",
 	"description": "Actor takes a screenshot of a loaded URL.",
 	"main": "main.js",
@@ -20,6 +20,6 @@
 		"type": "git",
 		"url": "https://github.com/gippy/kickstarter-search.git"
 	},
-	"author": "Jaroslav Hejlek",
-	"license": "ISC"
+	"author": "Max Slimmer",
+	"license": "MIT"
 }
